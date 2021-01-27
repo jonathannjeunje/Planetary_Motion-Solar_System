@@ -1,0 +1,102 @@
+*******************************************************************************
+ Revised: Sep 29, 2017              Jupiter                                 599
+ 
+ PHYSICAL DATA (updated 2009-Jan-28):
+  Mass (10^24 kg)       =  1898.13+-.19   Density (g/cm^3)       =  1.326
+  Equat. radius (1 bar) = 71492+-4 km     Polar radius (km)      = 66854+-10
+  Volumetric mean radius= 69911+-6 km     Flattening             =  0.06487
+
+  Rotation period       = 9h 55m 29.685s  Rot. rate(10^-4 rad/s) =  1.75865
+  m = w^2a^3/GM         =  0.089195       Hydrostatic flat., fh  =  0.06509
+  Inferred rot. period  =  9.894+-0.02 hr ks = 3*J2/m            =  0.494
+  Mom. of inert. I/MRo^2=  0.254          I/MRo^2 (upper bound)  =  0.267 
+  Rocky core mass (Mc/M)=  0.0261         Y factor (He/H ratio)  =  0.18+-0.04
+
+  GM (km^3/s^2)         = 126,686,511     GM 1-sigma (km^3/s^2)  = +-100
+  Equ. grav, ge (m/s^2) = 24.79           Pol. grav, gp (m/s^2)  = 28.34
+
+  Geometric albedo      =  0.52           Visual magnitude V(1,0)= -9.40
+  Vis. mag. (opposition)= -2.70           Obliquity to orbit     =  3.12 deg
+  Sidereal orbit period = 11.862615 yr    Sidereal orbit period  = 4332.820 d
+  Mean daily motion     = 0.0831294 deg/d Mean orbit velocity    = 13.0697 km/s
+
+  Atmos. temp. (1 bar)  = 165+-5 K        Heat flow/mass (x10^7) = 15 erg/gm*s
+  Planetary Solar Const =  50.5 W/m^2     Dipole tilt/offset     = 9.6deg/0.1Rp 
+  Escape velocity (km/s)=  59.5           Mag.dip.mom(gauss-Rp^3)= 4.2 
+  A_roche(ice)/Rp       =  2.76           Hill's sphere rad. Rp  = 740
+*******************************************************************************
+ 
+ 
+*******************************************************************************
+Ephemeris / WWW_USER Fri Apr  6 03:46:58 2018 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: Jupiter (599)                   {source: jup341}
+Center body name: Solar System Barycenter (0)     {source: DE431mx}
+Center-site name: BODY CENTER
+*******************************************************************************
+Start time      : A.D. 2018-Apr-06 00:00:00.0000 TDB
+Stop  time      : A.D. 2018-Apr-16 00:00:00.0000 TDB
+Step-size       : 1440 minutes
+*******************************************************************************
+Center geodetic : 0.00000000,0.00000000,0.0000000 {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 0.00000000,0.00000000,0.0000000 {E-lon(deg),Dxy(km),Dz(km)}
+Center radii    : (undefined)                                                  
+Output units    : KM-S                                                         
+Output type     : GEOMETRIC cartesian states
+Output format   : 3 (position, velocity, LT, range, range-rate)
+Reference frame : ICRF/J2000.0                                                 
+Coordinate systm: Ecliptic and Mean Equinox of Reference Epoch                 
+*******************************************************************************
+            JDTDB,            Calendar Date (TDB),                      X,                      Y,                      Z,                     VX,                     VY,                     VZ,                     LT,                     RG,                     RR,
+**************************************************************************************************************************************************************************************************************************************************************************
+$$SOE
+2458214.500000000, A.D. 2018-Apr-06 00:00:00.0000, -5.668987613877417E+08, -5.774950289182858E+08,  1.507553951174167E+07,  9.167933495396580E+00, -8.532438407298848E+00, -1.697666959533870E-01,  2.699813440631269E+03,  8.093837075082854E+08, -3.365631161889973E-01,
+2458215.500000000, A.D. 2018-Apr-07 00:00:00.0000, -5.661060385942022E+08, -5.782316778533589E+08,  1.506085918048608E+07,  9.181120805874773E+00, -8.519424778527521E+00, -1.700615913078201E-01,  2.699716103510535E+03,  8.093545265736057E+08, -3.383534778920151E-01,
+2458216.500000000, A.D. 2018-Apr-08 00:00:00.0000, -5.653122237698652E+08, -5.789672927112771E+08,  1.504614979547483E+07,  9.195214676979155E+00, -8.507975463054295E+00, -1.703932022335541E-01,  2.699618576600852E+03,  8.093252887416306E+08, -3.396551451619867E-01,
+2458217.500000000, A.D. 2018-Apr-09 00:00:00.0000, -5.645172310736380E+08, -5.797017123521764E+08,  1.503141850684842E+07,  9.206354814313269E+00, -8.493439126765281E+00, -1.706592284495274E-01,  2.699520276895687E+03,  8.092958192313987E+08, -3.410989730057239E-01,
+2458218.500000000, A.D. 2018-Apr-10 00:00:00.0000, -5.637212442398908E+08, -5.804350622983952E+08,  1.501665774422073E+07,  9.219729883592631E+00, -8.481197413290793E+00, -1.709803593922472E-01,  2.699421931791888E+03,  8.092663361109985E+08, -3.424593286011562E-01,
+2458219.500000000, A.D. 2018-Apr-11 00:00:00.0000, -5.629242068941035E+08, -5.811672387897968E+08,  1.500187212032184E+07,  9.230274715717892E+00, -8.468485668666938E+00, -1.713188702623727E-01,  2.699323162288912E+03,  8.092367257589257E+08, -3.421850936063751E-01,
+2458220.500000000, A.D. 2018-Apr-12 00:00:00.0000, -5.621261198340257E+08, -5.818983708720984E+08,  1.498705736839616E+07,  9.243284062412863E+00, -8.454859433764351E+00, -1.715895856648268E-01,  2.699224279194473E+03,  8.092070813529891E+08, -3.442803498038299E-01,
+2458221.500000000, A.D. 2018-Apr-13 00:00:00.0000, -5.613270943759497E+08, -5.826283661963803E+08,  1.497221480975512E+07,  9.253748308002001E+00, -8.444137131383089E+00, -1.720085341174529E-01,  2.699125319280285E+03,  8.091774139170712E+08, -3.425221378849910E-01,
+2458222.500000000, A.D. 2018-Apr-14 00:00:00.0000, -5.605269609447205E+08, -5.833573881546493E+08,  1.495734053938082E+07,  9.266904686488125E+00, -8.430895976443107E+00, -1.722983227495796E-01,  2.699026282402754E+03,  8.091477234081236E+08, -3.444384520715520E-01,
+2458223.500000000, A.D. 2018-Apr-15 00:00:00.0000, -5.597257712659788E+08, -5.840853394147075E+08,  1.494243781970179E+07,  9.280260022667948E+00, -8.419422198390748E+00, -1.726412208168431E-01,  2.698927055936435E+03,  8.091179760618871E+08, -3.452145611453731E-01,
+2458224.500000000, A.D. 2018-Apr-16 00:00:00.0000, -5.589234191753664E+08, -5.848120989888241E+08,  1.492751277586040E+07,  9.291437626356005E+00, -8.404403859805488E+00, -1.728895964244290E-01,  2.698827104733329E+03,  8.090880114450283E+08, -3.470399176140100E-01,
+$$EOE
+**************************************************************************************************************************************************************************************************************************************************************************
+Coordinate system description:
+
+  Ecliptic and Mean Equinox of Reference Epoch
+
+    Reference epoch: J2000.0
+    XY-plane: plane of the Earth's orbit at the reference epoch
+              Note: obliquity of 84381.448 arcseconds wrt ICRF equator (IAU76)
+    X-axis  : out along ascending node of instantaneous plane of the Earth's
+              orbit and the Earth's mean equator at the reference epoch
+    Z-axis  : perpendicular to the xy-plane in the directional (+ or -) sense
+              of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+    JDTDB    Julian Day Number, Barycentric Dynamical Time
+      X      X-component of position vector (km)                               
+      Y      Y-component of position vector (km)                               
+      Z      Z-component of position vector (km)                               
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)                       
+      RG     Range; distance from coordinate center (km)                       
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)            
+
+Geometric states/elements have no aberrations applied.
+
+ Computations by ...
+     Solar System Dynamics Group, Horizons On-Line Ephemeris System
+     4800 Oak Grove Drive, Jet Propulsion Laboratory
+     Pasadena, CA  91109   USA
+     Information: http://ssd.jpl.nasa.gov/
+     Connect    : telnet://ssd.jpl.nasa.gov:6775  (via browser)
+                  http://ssd.jpl.nasa.gov/?horizons
+                  telnet ssd.jpl.nasa.gov 6775    (via command-line)
+     Author     : Jon.D.Giorgini@jpl.nasa.gov
+*******************************************************************************

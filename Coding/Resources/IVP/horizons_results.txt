@@ -1,0 +1,96 @@
+*******************************************************************************
+ Revised : Jul 31, 2013                  Sun                                 10
+
+ PHYSICAL PROPERTIES (revised Jan 16, 2014):
+  GM (10^11 km^3/s^2)   = 1.3271244004193938  Mass (10^30 kg)   ~ 1.988544
+  Radius (photosphere)  = 6.963(10^5) km  Angular diam at 1 AU  = 1919.3"
+  Solar Radius (IAU)    = 6.955(10^5) km  Mean density          = 1.408 g/cm^3
+  Surface gravity       =  274.0 m/s^2    Moment of inertia     = 0.059
+  Escape velocity       =  617.7 km/s     Adopted sidereal per  = 25.38 d
+  Pole (RA,DEC in deg.) =  286.13,63.87   Obliquity to ecliptic = 7 deg 15'        
+  Solar constant (1 AU) = 1367.6 W/m^2    Solar lumin.(erg/s)   =  3.846(10^33)
+  Mass-energy conv rate = 4.3(10^12 gm/s) Effective temp (K)    =  5778
+  Surf. temp (photosphr)= 6600 K (bottom) Surf. temp (photosphr)=  4400 K (top)
+  Photospheric depth    = ~400 km         Chromospheric depth   = ~2500 km
+  Sunspot cycle         = 11.4 yr         Cycle 22 sunspot min. =  1991 A.D.
+
+  Motn. rel to nrby strs= apex : RA=271 deg; DEC=+30 deg
+                          speed: 19.4 km/s = 0.0112 AU/day
+  Motn. rel to 2.73K BB = apex : l=264.7+-0.8; b=48.2+-0.5
+                          speed: 369 +-11 km/s
+*******************************************************************************
+ 
+ 
+*******************************************************************************
+Ephemeris / WWW_USER Fri Apr  6 03:44:05 2018 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: Sun (10)                        {source: DE431mx}
+Center body name: Solar System Barycenter (0)     {source: DE431mx}
+Center-site name: BODY CENTER
+*******************************************************************************
+Start time      : A.D. 2018-Apr-06 00:00:00.0000 TDB
+Stop  time      : A.D. 2018-Apr-16 00:00:00.0000 TDB
+Step-size       : 1440 minutes
+*******************************************************************************
+Center geodetic : 0.00000000,0.00000000,0.0000000 {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 0.00000000,0.00000000,0.0000000 {E-lon(deg),Dxy(km),Dz(km)}
+Center radii    : (undefined)                                                  
+Output units    : KM-S                                                         
+Output type     : GEOMETRIC cartesian states
+Output format   : 3 (position, velocity, LT, range, range-rate)
+Reference frame : ICRF/J2000.0                                                 
+Coordinate systm: Ecliptic and Mean Equinox of Reference Epoch                 
+*******************************************************************************
+            JDTDB,            Calendar Date (TDB),                      X,                      Y,                      Z,                     VX,                     VY,                     VZ,                     LT,                     RG,                     RR,
+**************************************************************************************************************************************************************************************************************************************************************************
+$$SOE
+2458214.500000000, A.D. 2018-Apr-06 00:00:00.0000,  1.818990777708114E+05,  9.836304957342051E+05, -1.587778844286519E+04, -1.124742555484714E-02,  7.548755878046022E-03,  2.687232624537738E-04,  3.337088857619341E+00,  1.000434071190114E+06,  5.372691289163433E-03,
+2458215.500000000, A.D. 2018-Apr-07 00:00:00.0000,  1.809267593225515E+05,  9.842821973616295E+05, -1.585455658174504E+04, -1.125994871932761E-02,  7.536924218824960E-03,  2.690513323356861E-04,  3.338637185456774E+00,  1.000898248198288E+06,  5.372143092101718E-03,
+2458216.500000000, A.D. 2018-Apr-08 00:00:00.0000,  1.799533581440718E+05,  9.849328752530030E+05, -1.583129636462464E+04, -1.127248883037737E-02,  7.525058309673777E-03,  2.693796800736863E-04,  3.340185352053338E+00,  1.001362376867666E+06,  5.371572362246378E-03,
+2458217.500000000, A.D. 2018-Apr-09 00:00:00.0000,  1.789788727512659E+05,  9.855825264530391E+05, -1.580800776021602E+04, -1.128504635105243E-02,  7.513158210597537E-03,  2.697084722880294E-04,  3.341733350929421E+00,  1.001826455255708E+06,  5.370979169230101E-03,
+2458218.500000000, A.D. 2018-Apr-10 00:00:00.0000,  1.780033016198242E+05,  9.862311480039707E+05, -1.578469072334241E+04, -1.129762174566563E-02,  7.501223806786762E-03,  2.700378637719562E-04,  3.343281175600641E+00,  1.002290481418446E+06,  5.370363413449581E-03,
+2458219.500000000, A.D. 2018-Apr-11 00:00:00.0000,  1.770266431859211E+05,  9.868787369311189E+05, -1.576134519598063E+04, -1.131021546192377E-02,  7.489254824106487E-03,  2.703679970479252E-04,  3.344828819531725E+00,  1.002754453396654E+06,  5.369724844267821E-03,
+2458220.500000000, A.D. 2018-Apr-12 00:00:00.0000,  1.760488958483071E+05,  9.875252902297782E+05, -1.573797110833146E+04, -1.132282791619344E-02,  7.477250844103222E-03,  2.706990021685072E-04,  3.346376276095465E+00,  1.003218369203546E+06,  5.369063077083282E-03,
+2458221.500000000, A.D. 2018-Apr-13 00:00:00.0000,  1.750700579715575E+05,  9.881708048533746E+05, -1.571456837989902E+04, -1.133545948136223E-02,  7.465211318376057E-03,  2.710309967003479E-04,  3.347923538536430E+00,  1.003682226813894E+06,  5.368377609233315E-03,
+2458222.500000000, A.D. 2018-Apr-14 00:00:00.0000,  1.740901278902753E+05,  9.888152777028326E+05, -1.569113692056522E+04, -1.134811047684340E-02,  7.453135582231055E-03,  2.713640858428247E-04,  3.349470599939097E+00,  1.004146024154476E+06,  5.367667834751654E-03,
+2458223.500000000, A.D. 2018-Apr-15 00:00:00.0000,  1.731091039140777E+05,  9.894587056170905E+05, -1.566767663164937E+04, -1.136078116036044E-02,  7.441022867568601E-03,  2.716983626435453E-04,  3.351017453200067E+00,  1.004609759095748E+06,  5.366933058009987E-03,
+2458224.500000000, A.D. 2018-Apr-16 00:00:00.0000,  1.721269843332259E+05,  9.901010853646921E+05, -1.564418740694673E+04, -1.137347172124412E-02,  7.428872314941859E-03,  2.720339082803950E-04,  3.352564091004061E+00,  1.005073429444643E+06,  5.366172506242287E-03,
+$$EOE
+**************************************************************************************************************************************************************************************************************************************************************************
+Coordinate system description:
+
+  Ecliptic and Mean Equinox of Reference Epoch
+
+    Reference epoch: J2000.0
+    XY-plane: plane of the Earth's orbit at the reference epoch
+              Note: obliquity of 84381.448 arcseconds wrt ICRF equator (IAU76)
+    X-axis  : out along ascending node of instantaneous plane of the Earth's
+              orbit and the Earth's mean equator at the reference epoch
+    Z-axis  : perpendicular to the xy-plane in the directional (+ or -) sense
+              of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+    JDTDB    Julian Day Number, Barycentric Dynamical Time
+      X      X-component of position vector (km)                               
+      Y      Y-component of position vector (km)                               
+      Z      Z-component of position vector (km)                               
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+      LT     One-way down-leg Newtonian light-time (sec)                       
+      RG     Range; distance from coordinate center (km)                       
+      RR     Range-rate; radial velocity wrt coord. center (km/sec)            
+
+Geometric states/elements have no aberrations applied.
+
+ Computations by ...
+     Solar System Dynamics Group, Horizons On-Line Ephemeris System
+     4800 Oak Grove Drive, Jet Propulsion Laboratory
+     Pasadena, CA  91109   USA
+     Information: http://ssd.jpl.nasa.gov/
+     Connect    : telnet://ssd.jpl.nasa.gov:6775  (via browser)
+                  http://ssd.jpl.nasa.gov/?horizons
+                  telnet ssd.jpl.nasa.gov 6775    (via command-line)
+     Author     : Jon.D.Giorgini@jpl.nasa.gov
+*******************************************************************************
